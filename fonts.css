@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Figtree;
+    src: url(assets/fonts/static/Figtree-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: Figtree;
+    src: url(assets/fonts/static/Figtree-Medium.ttf);
+    font-weight: 500;
+}

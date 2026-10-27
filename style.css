@@ -23,3 +23,9 @@ main {
     max-width: 384px;
     padding: 20px;
 }
+
+.card-illustration {
+    display: block;
+    border-radius: 10px;
+    width: 100%;
+}

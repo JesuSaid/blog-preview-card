@@ -71,3 +71,20 @@ main {
     color: #6B6B6B;
     font-size: 16px;
 }
+
+footer {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    gap: 1em;
+}
+
+.avatar {
+    display: block;
+    max-width: 32px;
+}
+
+.card-author {
+    margin: 0;
+    font-weight: 800;
+}

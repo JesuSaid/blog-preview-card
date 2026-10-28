@@ -65,3 +65,9 @@ main {
 .card-title a:focus-visible {
     color: #F4D04E;
 }
+
+.card-description {
+    margin: 10px 0;
+    color: #6B6B6B;
+    font-size: 16px;
+}
